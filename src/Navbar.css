@@ -1,0 +1,16 @@
+.btn {
+
+    padding: 5px 5px 5px 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+Link {
+
+    color: white;
+}
+
+Link:hover {
+
+    color: darkgray;
+}
